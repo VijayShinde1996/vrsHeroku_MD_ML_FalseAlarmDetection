@@ -1,0 +1,4 @@
+False Alarm Sample - {"Ambient Temperature":7,"Calibration":57.00,"Unwanted substance deposition":0,"Humidity":90,"H2S Content":7,"detected by":38}
+
+
+True Alarm Sample - {"Ambient Temperature":4,"Calibration":134.00,"Unwanted substance deposition":1,"Humidity":83,"H2S Content":4,"detected by":77}
